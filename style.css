@@ -1,0 +1,14 @@
+body {
+    background-image: url('Design\ sem\ nome\ \(7\).png'); /* Substitua pelo nome do arquivo */
+    background-size: cover;  /* Faz a imagem cobrir toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição */
+}
+h1{font-size: 350%; color: rgb(30, 70, 33); text-align: center;} 
+h2{font-size: 220%; color: rgb(55, 104, 63); text-align: center;}
+h3{font-size: 180%; color: rgb(21, 37, 22);}
+h4{font-size: 180%; color: rgb(21, 37, 22);}
+h5{font-size: 180%; color: rgb(21, 37, 22);}
+h3 p {font-size: 80%; color: rgb(0, 0, 0);}
+h4 p {font-size: 80%; color: rgb(0, 0, 0);}
+h5 p {font-size: 80%; color: rgb(0, 0, 0);}
